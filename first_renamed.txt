@@ -5,3 +5,6 @@ learning diff command in git
 git diff works when file in staging area
 
 i am changing gitindex for 
+
+
+ladjfajfj ldjfajdf
