@@ -1,0 +1,1 @@
+this is example for pushing data to git hub using git push -u origin master command.
